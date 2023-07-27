@@ -1,0 +1,15 @@
+{
+  "name": "pokedex_project",
+  "version": "1.0.0",
+  "description": "This is a repository with a small vanilla JS pokedex project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.63.6"
+  }
+}
