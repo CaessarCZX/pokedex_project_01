@@ -1,4 +1,7 @@
-# pokedex_project_01
+# Pokedex Project
+
+![Pokedex Logo](./src/assets/media/img/Pokédex_logo.png)
+
 This is a repository with a small vanilla JS pokedex project.
 
 **This project is part of a collaborative work with my classmates in the DEV.F program.**
